@@ -1,7 +1,7 @@
-# Problem Set 0
+# Problem Set 0: Getting Started
 ---
 
-If you are reading this you have presumably followed the guide to get set up on GitHub and accept a GitHub Classroom assignment. Congrats! If you haven't also followed the guide to install Python and VSCode, go ahead and do that as well before continuing here.
+If you are reading this you have presumably followed the guide to get set up on GitHub and accept a Classroom 50 assignment. Congrats! If you haven't also followed the guide to install Python and VSCode, go ahead and do that as well before continuing here.
 
 One of the first things you will usually want to do after accepting an assignment is to download the assignment materials to your local system. If you haven't yet, watch the section on downloading materials in the guide. To get some practice doing so, you should download the zip containing the contents of this exercise (in GitHub's parlance, we call this a repository). Download this zip file, and then unzip it to a known location.
 
